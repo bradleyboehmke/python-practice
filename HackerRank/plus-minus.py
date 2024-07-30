@@ -1,13 +1,6 @@
 #!/bin/python3
 # https://www.hackerrank.com/challenges/plus-minus
 
-
-import math
-import os
-import random
-import re
-import sys
-
 #
 # Complete the 'plusMinus' function below.
 #
